@@ -10,6 +10,12 @@
 <h2>:page_with_curl: Description</h2>
 <p id="description">Esta é uma Landing Page de uma padaria fictícia!</p>
 
+Tópicos Abordados:
+- Vanilla JavaScript
+- Keyframes
+- Scroll Reveal
+- Media Queries
+- Hover Effect Animations
   
 <h2>💻 Built with</h2>
 
