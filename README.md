@@ -1,4 +1,4 @@
-<h1 align="center" id="title">The Bake - Landing Page</h1>
+<h1 align="center" id="title">The Bake</h1>
 
 ![the-bake](https://github.com/samaracaldas/the-bake/assets/92318337/2c374cce-2db1-4187-bb85-6299eb502493)
 
@@ -8,7 +8,7 @@
 [https://samaracaldas.github.io/the-bake/]((https://samaracaldas.github.io/the-bake/))
 
 <h2>:page_with_curl: Description</h2>
-<p id="description">Esta é uma Landing Page de uma padaria fictícia!</p>
+<p id="description">Esta é uma Landing Page de uma padaria fictícia!<br> Uma Landing Page simples construída em JavaScript, HTML e CSS.</p>
 
 Tópicos Abordados:
 - Vanilla JavaScript
