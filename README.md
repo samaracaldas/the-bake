@@ -1,5 +1,6 @@
-<h1 align="center" id="title">The Bake - Website</h1>
+<h1 align="center" id="title">The Bake - Landing Page</h1>
 
+![the-bake](https://github.com/samaracaldas/the-bake/assets/92318337/2c374cce-2db1-4187-bb85-6299eb502493)
 
 
 <h2>🚀 Demo</h2>
