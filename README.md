@@ -2,11 +2,6 @@
 
 ![the-bake](https://github.com/samaracaldas/the-bake/assets/92318337/2c374cce-2db1-4187-bb85-6299eb502493)
 
-
-<h2>🚀 Demo</h2>
-
-[https://samaracaldas.github.io/the-bake/]((https://samaracaldas.github.io/the-bake/))
-
 <h2>:page_with_curl: Description</h2>
 <p id="description">Esta é uma Landing Page de uma padaria fictícia!<br> Uma Landing Page simples construída em JavaScript, HTML e CSS.</p>
 
@@ -27,3 +22,18 @@ Tópicos Abordados:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" /> 
 </div>
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm install
+```
+```bash
+  ng serve
+```
+
+
+
